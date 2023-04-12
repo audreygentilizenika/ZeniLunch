@@ -1,5 +1,4 @@
-{
-  restaurants [
+[
     {
       "name": "Kaffee Berlin",
       "type": "Burger",
@@ -90,5 +89,4 @@
       "latitude": 45.76609019074048,
       "longitude": 4.854910608843241
     }
-  ]
-}
+]
