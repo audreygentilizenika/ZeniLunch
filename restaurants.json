@@ -106,5 +106,14 @@
       "vegan": false,
       "latitude": 45.76095048170527,
       "longitude": 4.853801245909689 
+    },
+    {
+        "name": "Banh Mi Lyon 6",
+        "type": "Vietnamien",
+        "price": "€",
+        "vegetarian": true,
+        "vegan": false,
+        "latitude": 45.765501274681405,
+        "longitude": 4.8553054395691895
     }
 ]
