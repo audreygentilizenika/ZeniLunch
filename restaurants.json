@@ -97,5 +97,14 @@
       "vegan": false,
       "latitude": 45.76397465934661, 
       "longitude": 4.857637175224454
+    },
+    {
+      "name": "Berliner Das Original",
+      "type": "Kebab",
+      "price": "€",
+      "vegetarian": true,
+      "vegan": false,
+      "latitude": 45.76095048170527,
+      "longitude": 4.853801245909689 
     }
 ]
