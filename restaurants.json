@@ -88,5 +88,14 @@
       "vegan": false,
       "latitude": 45.76609019074048,
       "longitude": 4.854910608843241
+    },
+    {
+      "name": "Poké Bar",
+      "type": "Bar à pokebowl",
+      "price": "€",
+      "vegetarian": true,
+      "vegan": false,
+      "latitude": 45.76397465934661, 
+      "longitude": 4.857637175224454
     }
 ]
